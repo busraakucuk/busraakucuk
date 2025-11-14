@@ -1,18 +1,20 @@
 Hi 👋 My name is Büşra Küçük
 =========================================
 
-Computer Engineering Student 
+Computer Engineer
 ------------------------------
 
-Hello, I'm Büşra. I'm 20 years old. I am studying Computer Engineering in university and I am developing projects on HTML, CSS, Bootstrap and Javascript and I am learning React. I strive to improve myself every day.
+Hello, I'm Büşra. I'm 22 years old. I am Computer Engineer at Siemens. I am developing projects in the field of AI development.
 
 * 🌍  I'm based in Istanbul, Turkey.
-* ✉️  You can contact me at [busra.74kck@gmail.com](mailto:ibrahimkpsz@outlook.com)
+* ✉️  You can contact me at [busra.74kck@gmail.com](mailto:busra.74kck@gmail.com)
 * 🧠  I'm learning React.
 
 ### Skills
 
 <div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -22,8 +24,6 @@ Hello, I'm Büşra. I'm 20 years old. I am studying Computer Engineering in univ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
