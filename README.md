@@ -8,7 +8,6 @@ Hello, I'm Büşra. I'm 22 years old. I am Computer Engineer at Siemens. I am de
 
 * 🌍  I'm based in Istanbul, Turkey.
 * ✉️  You can contact me at [busra.74kck@gmail.com](mailto:busra.74kck@gmail.com)
-* 🧠  I'm learning React.
 
 ### Skills
 
